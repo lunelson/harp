@@ -54,7 +54,7 @@
     "read": "1.0.5",
     "send": "0.13.0",
     "surge": "0.17.6",
-    "terraform": "1.0.0",
+    "terraform": "git://github.com/lunelson/terraform#dev2",
     "tmp": "0.0.28",
     "yargs": "3.32.0"
   },
